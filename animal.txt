@@ -3,3 +3,10 @@ brrrrrr
 trrrrrr
 prrrrrr
 arrrrrr
+
+
+checkout to main
+git pull 
+create branch
+checkout to branche
+git add commit push
