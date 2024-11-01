@@ -10,3 +10,6 @@ git pull
 create branch
 checkout to branche
 git add commit push
+
+
+skibidi skibidii
